@@ -30,13 +30,13 @@ eagle.epf
 *.crc
 *.crs
 
-*.dri
-*.drl
-*.gpi
-*.pls
-*.ger
-*.gpi
-*.xln
+# *.dri
+# *.drl
+# *.gpi
+# *.pls
+# *.ger
+# *.gpi
+# *.xln
 
 *.drd
 *.drd.*
